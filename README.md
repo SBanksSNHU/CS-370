@@ -15,3 +15,8 @@ As a developer and computer scientist, I have ethical responsibilities to ensure
 
 
 This project deepened my understanding of reinforcement learning and neural networks, two critical areas in artificial intelligence. By implementing the training loop and managing the agent's learning process, I gained hands-on experience with concepts like the epsilon-greedy strategy, replay buffers, and reward systems. These skills are directly applicable to larger-scale problems in AI, such as autonomous vehicles or recommendation systems.
+
+How to Run the Code:
+    Clone the repository to your local machine.
+    Install the required dependencies using pip install -r requirements.txt
+    Open the Jupyter Notebook file, then run all Cells
